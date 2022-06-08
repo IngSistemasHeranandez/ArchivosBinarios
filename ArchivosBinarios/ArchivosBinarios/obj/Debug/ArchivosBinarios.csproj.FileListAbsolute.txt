@@ -1,0 +1,7 @@
+C:\Users\52664\source\repos\ArchivosBinarios\ArchivosBinarios\bin\Debug\ArchivosBinarios.exe.config
+C:\Users\52664\source\repos\ArchivosBinarios\ArchivosBinarios\bin\Debug\ArchivosBinarios.exe
+C:\Users\52664\source\repos\ArchivosBinarios\ArchivosBinarios\bin\Debug\ArchivosBinarios.pdb
+C:\Users\52664\source\repos\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.csproj.AssemblyReference.cache
+C:\Users\52664\source\repos\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.csproj.CoreCompileInputs.cache
+C:\Users\52664\source\repos\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.exe
+C:\Users\52664\source\repos\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.pdb
